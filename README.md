@@ -5,7 +5,7 @@
 ## Quickstart
 
 ```shell
-go run cmd --all PACKAGE_NAME 2>debug.log 1>result.json
+package-crawler --all PACKAGE_NAME 2>debug.log 1>result.json
 ```
 
 ## Development
