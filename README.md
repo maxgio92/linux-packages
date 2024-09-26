@@ -1,4 +1,6 @@
-# README
+## package-crawler
+
+A crawler for packages distributed by Linux distros. This is a proof of concept for a multi-stage data processing pipeline in Go.
 
 > **Disclaimer**: this project is in experimental stage.
 
